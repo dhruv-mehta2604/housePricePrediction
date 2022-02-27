@@ -7,11 +7,11 @@ This Kaggle dataset consists of roughly 3,000 property listings (observations), 
 
 2.Data Preprocessing
 
-  A.Fixing Skewness and Outliers
+   A.Fixing Skewness and Outliers
 
-  B.Encoding Categorical Data
+   B.Encoding Categorical Data
 
-  C.Imputing Missing Values
+   C.Imputing Missing Values
   
 3.Modelling
 
